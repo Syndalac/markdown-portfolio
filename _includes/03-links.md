@@ -1,1 +1,1 @@
-https://github.com/Syndalac/markdown-portfolio
+[My Github Repo](https://github.com/Syndalac/markdown-portfolio)
